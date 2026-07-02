@@ -1,0 +1,47 @@
+{
+  "name": "browserwing",
+  "version": "1.1.1-beta.1",
+  "description": "Turn any website into structured data with one command. Browser automation platform with 78 built-in scripts, CLI for AI agents, MCP & Skills support.",
+  "keywords": [
+    "browser",
+    "automation",
+    "mcp",
+    "skills",
+    "ai",
+    "llm",
+    "rpa",
+    "web-automation",
+    "cli",
+    "scraper",
+    "data-extraction",
+    "headless"
+  ],
+  "homepage": "https://browserwing.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/browserwing/browserwing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/browserwing/browserwing/issues"
+  },
+  "license": "MIT",
+  "author": "BrowserWing Team",
+  "bin": {
+    "browserwing": "bin/browserwing"
+  },
+  "scripts": {
+    "postinstall": "node install.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "cpu": [
+    "x64",
+    "arm64"
+  ]
+}

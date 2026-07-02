@@ -1,0 +1,15 @@
+{
+  "files": [
+    "other.json",
+    "tech.json",
+    "news.json",
+    "search.json",
+    "social.json",
+    "entertainment.json",
+    "finance.json",
+    "jobs.json",
+    "shopping.json",
+    "reading.json"
+  ],
+  "total": 86
+}
